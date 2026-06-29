@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/joaomjbraga/brasil-copa"
+    "url": "https://github.com/joaomjbraga/brasil-copa-theme"
   },
   "engines": {
     "vscode": "^1.70.0"
