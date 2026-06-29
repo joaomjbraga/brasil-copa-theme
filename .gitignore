@@ -1,0 +1,28 @@
+# Dependências
+node_modules/
+
+# Build
+*.tgz
+*.vsix
+
+# Logs
+*.log
+npm-debug.log*
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+*.swp
+*.swo
+*~
+
+# VS Code (exceto launch.json)
+.vscode/
+
+
+# Arquivos temporários
+*.tmp
+*.temp

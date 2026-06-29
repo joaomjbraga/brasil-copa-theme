@@ -1,0 +1,44 @@
+{
+  "name": "brasil-copa",
+  "displayName": "Brasil Copa",
+  "description": "Enquanto a bola rola, o código também entra em campo.",
+  "version": "1.0.0",
+  "publisher": "joaomjbraga",
+  "icon": "icon.png",
+  "author": {
+    "name": "João M J Braga"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/joaomjbraga/brasil-copa"
+  },
+  "engines": {
+    "vscode": "^1.70.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "brasil",
+    "copa",
+    "futebol",
+    "verde-amarelo",
+    "tema escuro",
+    "world cup",
+    "football",
+    "green",
+    "yellow",
+    "brazil",
+    "tema de sintaxe",
+    "color theme"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Brasil Copa",
+        "uiTheme": "vs-dark",
+        "path": "./themes/brasil-copa-color-theme.json"
+      }
+    ]
+  }
+}
