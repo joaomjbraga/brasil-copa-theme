@@ -1,0 +1,6 @@
+# Arquivos desnecessários na extensão
+.gitignore
+*.map
+package-lock.json
+yarn.lock
+.vscode
